@@ -22,9 +22,9 @@ This is known as **locator brittleness**, and it's one of the primary sources of
 
 ## The Solution — 4 Modules
 
-```
+
 ![AITIF Architecture](docs/aitif-architecture.png)
-```
+
 
 ---
 
