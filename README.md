@@ -111,8 +111,8 @@ npx ts-node modules/genai-summary/index.ts
 # Opens: data/genai-reports/aitif-report.html
 ```
 ![Report](docs/ReportScreenshot1.png)
-![Report](docs/ReportScreenshot.png)
-![Report](docs/ReportScreenshot.png)
+![Report](docs/ReportScreenshot2.png)
+![Report](docs/ReportScreenshot3.png)
 ---
 
 ## Module 4 — Stability Predictor
