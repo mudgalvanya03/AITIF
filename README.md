@@ -110,7 +110,9 @@ Reads the output from all three other modules and uses Google Gemini to generate
 npx ts-node modules/genai-summary/index.ts
 # Opens: data/genai-reports/aitif-report.html
 ```
-
+![Report](docs/ReportScreenshot1.png)
+![Report](docs/ReportScreenshot.png)
+![Report](docs/ReportScreenshot.png)
 ---
 
 ## Module 4 — Stability Predictor
