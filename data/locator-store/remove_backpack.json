@@ -1,0 +1,154 @@
+[
+  {
+    "stepName": "remove_backpack",
+    "tag": "button",
+    "id": "remove-sauce-labs-backpack",
+    "classes": [
+      "btn",
+      "btn_secondary",
+      "btn_small",
+      "cart_button"
+    ],
+    "text": "Remove",
+    "attributes": {
+      "class": "btn btn_secondary btn_small cart_button",
+      "data-test": "remove-sauce-labs-backpack",
+      "id": "remove-sauce-labs-backpack",
+      "name": "remove-sauce-labs-backpack"
+    },
+    "timestamp": "2026-03-13T05:37:21.845Z"
+  },
+  {
+    "stepName": "remove_backpack",
+    "tag": "button",
+    "id": "remove-sauce-labs-backpack",
+    "classes": [
+      "btn",
+      "btn_secondary",
+      "btn_small",
+      "cart_button"
+    ],
+    "text": "Remove",
+    "attributes": {
+      "class": "btn btn_secondary btn_small cart_button",
+      "data-test": "remove-sauce-labs-backpack",
+      "id": "remove-sauce-labs-backpack",
+      "name": "remove-sauce-labs-backpack"
+    },
+    "timestamp": "2026-03-13T05:47:47.018Z"
+  },
+  {
+    "stepName": "remove_backpack",
+    "tag": "button",
+    "id": "remove-sauce-labs-backpack",
+    "classes": [
+      "btn",
+      "btn_secondary",
+      "btn_small",
+      "cart_button"
+    ],
+    "text": "Remove",
+    "attributes": {
+      "class": "btn btn_secondary btn_small cart_button",
+      "data-test": "remove-sauce-labs-backpack",
+      "id": "remove-sauce-labs-backpack",
+      "name": "remove-sauce-labs-backpack"
+    },
+    "timestamp": "2026-03-15T02:52:40.629Z"
+  },
+  {
+    "stepName": "remove_backpack",
+    "tag": "button",
+    "id": "remove-sauce-labs-backpack",
+    "classes": [
+      "btn",
+      "btn_secondary",
+      "btn_small",
+      "cart_button"
+    ],
+    "text": "Remove",
+    "attributes": {
+      "class": "btn btn_secondary btn_small cart_button",
+      "data-test": "remove-sauce-labs-backpack",
+      "id": "remove-sauce-labs-backpack",
+      "name": "remove-sauce-labs-backpack"
+    },
+    "timestamp": "2026-03-15T03:06:12.648Z"
+  },
+  {
+    "stepName": "remove_backpack",
+    "tag": "button",
+    "id": "remove-sauce-labs-backpack",
+    "classes": [
+      "btn",
+      "btn_secondary",
+      "btn_small",
+      "cart_button"
+    ],
+    "text": "Remove",
+    "attributes": {
+      "class": "btn btn_secondary btn_small cart_button",
+      "data-test": "remove-sauce-labs-backpack",
+      "id": "remove-sauce-labs-backpack",
+      "name": "remove-sauce-labs-backpack"
+    },
+    "timestamp": "2026-03-15T03:13:33.980Z"
+  },
+  {
+    "stepName": "remove_backpack",
+    "tag": "button",
+    "id": "remove-sauce-labs-backpack",
+    "classes": [
+      "btn",
+      "btn_secondary",
+      "btn_small",
+      "cart_button"
+    ],
+    "text": "Remove",
+    "attributes": {
+      "class": "btn btn_secondary btn_small cart_button",
+      "data-test": "remove-sauce-labs-backpack",
+      "id": "remove-sauce-labs-backpack",
+      "name": "remove-sauce-labs-backpack"
+    },
+    "timestamp": "2026-03-15T03:18:18.267Z"
+  },
+  {
+    "stepName": "remove_backpack",
+    "tag": "button",
+    "id": "remove-sauce-labs-backpack",
+    "classes": [
+      "btn",
+      "btn_secondary",
+      "btn_small",
+      "cart_button"
+    ],
+    "text": "Remove",
+    "attributes": {
+      "class": "btn btn_secondary btn_small cart_button",
+      "data-test": "remove-sauce-labs-backpack",
+      "id": "remove-sauce-labs-backpack",
+      "name": "remove-sauce-labs-backpack"
+    },
+    "timestamp": "2026-03-15T03:22:10.510Z"
+  },
+  {
+    "stepName": "remove_backpack",
+    "tag": "button",
+    "id": "remove-sauce-labs-backpack",
+    "classes": [
+      "btn",
+      "btn_secondary",
+      "btn_small",
+      "cart_button"
+    ],
+    "text": "Remove",
+    "attributes": {
+      "class": "btn btn_secondary btn_small cart_button",
+      "data-test": "remove-sauce-labs-backpack",
+      "id": "remove-sauce-labs-backpack",
+      "name": "remove-sauce-labs-backpack"
+    },
+    "timestamp": "2026-03-15T03:33:38.630Z"
+  }
+]

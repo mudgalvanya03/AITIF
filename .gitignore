@@ -1,0 +1,16 @@
+
+# Playwright
+node_modules/
+/test-results/
+/playwright-report/
+/blob-report/
+/playwright/.cache/
+/playwright/.auth/
+.env
+node_modules/
+data/ml-dataset/
+data/recovery-logs/
+data/stability-reports/
+data/genai-reports/
+python-services/__pycache__/
+healing_model.pkl

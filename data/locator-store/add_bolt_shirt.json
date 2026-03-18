@@ -1,0 +1,142 @@
+[
+  {
+    "stepName": "add_bolt_shirt",
+    "tag": "button",
+    "id": "add-to-cart-sauce-labs-bolt-t-shirt",
+    "classes": [
+      "btn",
+      "btn_primary",
+      "btn_small",
+      "btn_inventory",
+      ""
+    ],
+    "text": "Add to cart",
+    "attributes": {
+      "class": "btn btn_primary btn_small btn_inventory ",
+      "data-test": "add-to-cart-sauce-labs-bolt-t-shirt",
+      "id": "add-to-cart-sauce-labs-bolt-t-shirt",
+      "name": "add-to-cart-sauce-labs-bolt-t-shirt"
+    },
+    "timestamp": "2026-03-12T03:40:58.789Z"
+  },
+  {
+    "stepName": "add_bolt_shirt",
+    "tag": "button",
+    "id": "add-to-cart-sauce-labs-bolt-t-shirt",
+    "classes": [
+      "btn",
+      "btn_primary",
+      "btn_small",
+      "btn_inventory",
+      ""
+    ],
+    "text": "Add to cart",
+    "attributes": {
+      "class": "btn btn_primary btn_small btn_inventory ",
+      "data-test": "add-to-cart-sauce-labs-bolt-t-shirt",
+      "id": "add-to-cart-sauce-labs-bolt-t-shirt",
+      "name": "add-to-cart-sauce-labs-bolt-t-shirt"
+    },
+    "timestamp": "2026-03-12T03:55:44.415Z"
+  },
+  {
+    "stepName": "add_bolt_shirt",
+    "tag": "button",
+    "id": "add-to-cart-sauce-labs-bolt-t-shirt",
+    "classes": [
+      "btn",
+      "btn_primary",
+      "btn_small",
+      "btn_inventory",
+      ""
+    ],
+    "text": "Add to cart",
+    "attributes": {
+      "class": "btn btn_primary btn_small btn_inventory ",
+      "data-test": "add-to-cart-sauce-labs-bolt-t-shirt",
+      "id": "add-to-cart-sauce-labs-bolt-t-shirt",
+      "name": "add-to-cart-sauce-labs-bolt-t-shirt"
+    },
+    "timestamp": "2026-03-12T04:04:31.328Z"
+  },
+  {
+    "stepName": "add_bolt_shirt",
+    "tag": "button",
+    "id": "add-to-cart-sauce-labs-bolt-t-shirt",
+    "classes": [
+      "btn",
+      "btn_primary",
+      "btn_small",
+      "btn_inventory",
+      ""
+    ],
+    "text": "Add to cart",
+    "attributes": {
+      "class": "btn btn_primary btn_small btn_inventory ",
+      "data-test": "add-to-cart-sauce-labs-bolt-t-shirt",
+      "id": "add-to-cart-sauce-labs-bolt-t-shirt",
+      "name": "add-to-cart-sauce-labs-bolt-t-shirt"
+    },
+    "timestamp": "2026-03-12T04:09:31.243Z"
+  },
+  {
+    "stepName": "add_bolt_shirt",
+    "tag": "button",
+    "id": "add-to-cart-sauce-labs-bolt-t-shirt",
+    "classes": [
+      "btn",
+      "btn_primary",
+      "btn_small",
+      "btn_inventory",
+      ""
+    ],
+    "text": "Add to cart",
+    "attributes": {
+      "class": "btn btn_primary btn_small btn_inventory ",
+      "data-test": "add-to-cart-sauce-labs-bolt-t-shirt",
+      "id": "add-to-cart-sauce-labs-bolt-t-shirt",
+      "name": "add-to-cart-sauce-labs-bolt-t-shirt"
+    },
+    "timestamp": "2026-03-12T04:15:55.106Z"
+  },
+  {
+    "stepName": "add_bolt_shirt",
+    "tag": "button",
+    "id": "add-to-cart-sauce-labs-bolt-t-shirt",
+    "classes": [
+      "btn",
+      "btn_primary",
+      "btn_small",
+      "btn_inventory",
+      ""
+    ],
+    "text": "Add to cart",
+    "attributes": {
+      "class": "btn btn_primary btn_small btn_inventory ",
+      "data-test": "add-to-cart-sauce-labs-bolt-t-shirt",
+      "id": "add-to-cart-sauce-labs-bolt-t-shirt",
+      "name": "add-to-cart-sauce-labs-bolt-t-shirt"
+    },
+    "timestamp": "2026-03-13T02:20:45.723Z"
+  },
+  {
+    "stepName": "add_bolt_shirt",
+    "tag": "button",
+    "id": "add-to-cart-sauce-labs-bolt-t-shirt",
+    "classes": [
+      "btn",
+      "btn_primary",
+      "btn_small",
+      "btn_inventory",
+      ""
+    ],
+    "text": "Add to cart",
+    "attributes": {
+      "class": "btn btn_primary btn_small btn_inventory ",
+      "data-test": "add-to-cart-sauce-labs-bolt-t-shirt",
+      "id": "add-to-cart-sauce-labs-bolt-t-shirt",
+      "name": "add-to-cart-sauce-labs-bolt-t-shirt"
+    },
+    "timestamp": "2026-03-13T05:01:17.445Z"
+  }
+]

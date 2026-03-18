@@ -1,0 +1,170 @@
+[
+  {
+    "stepName": "filter_dropdown",
+    "tag": "select",
+    "id": null,
+    "classes": [
+      "product_sort_container"
+    ],
+    "text": "Name (A to Z)Name (Z to A)Price (low to high)Price (high to low)",
+    "attributes": {
+      "class": "product_sort_container",
+      "data-test": "product-sort-container"
+    },
+    "timestamp": "2026-03-12T03:40:58.747Z"
+  },
+  {
+    "stepName": "filter_dropdown",
+    "tag": "select",
+    "id": null,
+    "classes": [
+      "product_sort_container"
+    ],
+    "text": "Name (A to Z)Name (Z to A)Price (low to high)Price (high to low)",
+    "attributes": {
+      "class": "product_sort_container",
+      "data-test": "product-sort-container"
+    },
+    "timestamp": "2026-03-12T03:55:44.376Z"
+  },
+  {
+    "stepName": "filter_dropdown",
+    "tag": "select",
+    "id": null,
+    "classes": [
+      "product_sort_container"
+    ],
+    "text": "Name (A to Z)Name (Z to A)Price (low to high)Price (high to low)",
+    "attributes": {
+      "class": "product_sort_container",
+      "data-test": "product-sort-container"
+    },
+    "timestamp": "2026-03-12T04:04:31.289Z"
+  },
+  {
+    "stepName": "filter_dropdown",
+    "tag": "select",
+    "id": null,
+    "classes": [
+      "product_sort_container"
+    ],
+    "text": "Name (A to Z)Name (Z to A)Price (low to high)Price (high to low)",
+    "attributes": {
+      "class": "product_sort_container",
+      "data-test": "product-sort-container"
+    },
+    "timestamp": "2026-03-12T04:09:31.206Z"
+  },
+  {
+    "stepName": "filter_dropdown",
+    "tag": "select",
+    "id": null,
+    "classes": [
+      "product_sort_container"
+    ],
+    "text": "Name (A to Z)Name (Z to A)Price (low to high)Price (high to low)",
+    "attributes": {
+      "class": "product_sort_container",
+      "data-test": "product-sort-container"
+    },
+    "timestamp": "2026-03-12T04:15:55.064Z"
+  },
+  {
+    "stepName": "filter_dropdown",
+    "tag": "select",
+    "id": null,
+    "classes": [
+      "product_sort_container"
+    ],
+    "text": "Name (A to Z)Name (Z to A)Price (low to high)Price (high to low)",
+    "attributes": {
+      "class": "product_sort_container",
+      "data-test": "product-sort-container"
+    },
+    "timestamp": "2026-03-13T02:20:45.603Z"
+  },
+  {
+    "stepName": "filter_dropdown",
+    "tag": "select",
+    "id": null,
+    "classes": [
+      "product_sort_container"
+    ],
+    "text": "Name (A to Z)Name (Z to A)Price (low to high)Price (high to low)",
+    "attributes": {
+      "class": "product_sort_container",
+      "data-test": "product-sort-container"
+    },
+    "timestamp": "2026-03-13T02:20:59.096Z"
+  },
+  {
+    "stepName": "filter_dropdown",
+    "tag": "select",
+    "id": null,
+    "classes": [
+      "product_sort_container"
+    ],
+    "text": "Name (A to Z)Name (Z to A)Price (low to high)Price (high to low)",
+    "attributes": {
+      "class": "product_sort_container",
+      "data-test": "product-sort-container"
+    },
+    "timestamp": "2026-03-13T02:22:16.645Z"
+  },
+  {
+    "stepName": "filter_dropdown",
+    "tag": "select",
+    "id": null,
+    "classes": [
+      "product_sort_container"
+    ],
+    "text": "Name (A to Z)Name (Z to A)Price (low to high)Price (high to low)",
+    "attributes": {
+      "class": "product_sort_container",
+      "data-test": "product-sort-container"
+    },
+    "timestamp": "2026-03-13T02:22:49.201Z"
+  },
+  {
+    "stepName": "filter_dropdown",
+    "tag": "select",
+    "id": null,
+    "classes": [
+      "product_sort_container"
+    ],
+    "text": "Name (A to Z)Name (Z to A)Price (low to high)Price (high to low)",
+    "attributes": {
+      "class": "product_sort_container",
+      "data-test": "product-sort-container"
+    },
+    "timestamp": "2026-03-13T02:23:15.601Z"
+  },
+  {
+    "stepName": "filter_dropdown",
+    "tag": "select",
+    "id": null,
+    "classes": [
+      "product_sort_container"
+    ],
+    "text": "Name (A to Z)Name (Z to A)Price (low to high)Price (high to low)",
+    "attributes": {
+      "class": "product_sort_container",
+      "data-test": "product-sort-container"
+    },
+    "timestamp": "2026-03-13T02:23:52.654Z"
+  },
+  {
+    "stepName": "filter_dropdown",
+    "tag": "select",
+    "id": null,
+    "classes": [
+      "product_sort_container"
+    ],
+    "text": "Name (A to Z)Name (Z to A)Price (low to high)Price (high to low)",
+    "attributes": {
+      "class": "product_sort_container",
+      "data-test": "product-sort-container"
+    },
+    "timestamp": "2026-03-13T05:01:17.391Z"
+  }
+]

@@ -1,0 +1,114 @@
+[
+  {
+    "stepName": "item_price_first",
+    "tag": "div",
+    "id": null,
+    "classes": [
+      "inventory_item_price"
+    ],
+    "text": "$29.99",
+    "attributes": {
+      "class": "inventory_item_price",
+      "data-test": "inventory-item-price"
+    },
+    "timestamp": "2026-03-13T05:37:21.853Z"
+  },
+  {
+    "stepName": "item_price_first",
+    "tag": "div",
+    "id": null,
+    "classes": [
+      "inventory_item_price"
+    ],
+    "text": "$29.99",
+    "attributes": {
+      "class": "inventory_item_price",
+      "data-test": "inventory-item-price"
+    },
+    "timestamp": "2026-03-13T05:47:47.066Z"
+  },
+  {
+    "stepName": "item_price_first",
+    "tag": "div",
+    "id": null,
+    "classes": [
+      "inventory_item_price"
+    ],
+    "text": "$29.99",
+    "attributes": {
+      "class": "inventory_item_price",
+      "data-test": "inventory-item-price"
+    },
+    "timestamp": "2026-03-15T02:52:38.276Z"
+  },
+  {
+    "stepName": "item_price_first",
+    "tag": "div",
+    "id": null,
+    "classes": [
+      "inventory_item_price"
+    ],
+    "text": "$29.99",
+    "attributes": {
+      "class": "inventory_item_price",
+      "data-test": "inventory-item-price"
+    },
+    "timestamp": "2026-03-15T03:06:12.083Z"
+  },
+  {
+    "stepName": "item_price_first",
+    "tag": "div",
+    "id": null,
+    "classes": [
+      "inventory_item_price"
+    ],
+    "text": "$29.99",
+    "attributes": {
+      "class": "inventory_item_price",
+      "data-test": "inventory-item-price"
+    },
+    "timestamp": "2026-03-15T03:13:33.371Z"
+  },
+  {
+    "stepName": "item_price_first",
+    "tag": "div",
+    "id": null,
+    "classes": [
+      "inventory_item_price"
+    ],
+    "text": "$29.99",
+    "attributes": {
+      "class": "inventory_item_price",
+      "data-test": "inventory-item-price"
+    },
+    "timestamp": "2026-03-15T03:18:17.753Z"
+  },
+  {
+    "stepName": "item_price_first",
+    "tag": "div",
+    "id": null,
+    "classes": [
+      "inventory_item_price"
+    ],
+    "text": "$29.99",
+    "attributes": {
+      "class": "inventory_item_price",
+      "data-test": "inventory-item-price"
+    },
+    "timestamp": "2026-03-15T03:22:10.013Z"
+  },
+  {
+    "stepName": "item_price_first",
+    "tag": "div",
+    "id": null,
+    "classes": [
+      "inventory_item_price"
+    ],
+    "text": "$29.99",
+    "attributes": {
+      "class": "inventory_item_price",
+      "data-test": "inventory-item-price"
+    },
+    "timestamp": "2026-03-15T03:33:38.085Z"
+  }
+]

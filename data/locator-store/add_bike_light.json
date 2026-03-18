@@ -1,0 +1,372 @@
+[
+  {
+    "stepName": "add_bike_light",
+    "tag": "button",
+    "id": "add-to-cart-sauce-labs-bike-light",
+    "classes": [
+      "btn",
+      "btn_primary",
+      "btn_small",
+      "btn_inventory",
+      ""
+    ],
+    "text": "Add to cart",
+    "attributes": {
+      "class": "btn btn_primary btn_small btn_inventory ",
+      "data-test": "add-to-cart-sauce-labs-bike-light",
+      "id": "add-to-cart-sauce-labs-bike-light",
+      "name": "add-to-cart-sauce-labs-bike-light"
+    },
+    "timestamp": "2026-03-12T03:40:58.774Z"
+  },
+  {
+    "stepName": "add_bike_light",
+    "tag": "button",
+    "id": "add-to-cart-sauce-labs-bike-light",
+    "classes": [
+      "btn",
+      "btn_primary",
+      "btn_small",
+      "btn_inventory",
+      ""
+    ],
+    "text": "Add to cart",
+    "attributes": {
+      "class": "btn btn_primary btn_small btn_inventory ",
+      "data-test": "add-to-cart-sauce-labs-bike-light",
+      "id": "add-to-cart-sauce-labs-bike-light",
+      "name": "add-to-cart-sauce-labs-bike-light"
+    },
+    "timestamp": "2026-03-12T03:55:44.401Z"
+  },
+  {
+    "stepName": "add_bike_light",
+    "tag": "button",
+    "id": "add-to-cart-sauce-labs-bike-light",
+    "classes": [
+      "btn",
+      "btn_primary",
+      "btn_small",
+      "btn_inventory",
+      ""
+    ],
+    "text": "Add to cart",
+    "attributes": {
+      "class": "btn btn_primary btn_small btn_inventory ",
+      "data-test": "add-to-cart-sauce-labs-bike-light",
+      "id": "add-to-cart-sauce-labs-bike-light",
+      "name": "add-to-cart-sauce-labs-bike-light"
+    },
+    "timestamp": "2026-03-12T04:04:31.315Z"
+  },
+  {
+    "stepName": "add_bike_light",
+    "tag": "button",
+    "id": "add-to-cart-sauce-labs-bike-light",
+    "classes": [
+      "btn",
+      "btn_primary",
+      "btn_small",
+      "btn_inventory",
+      ""
+    ],
+    "text": "Add to cart",
+    "attributes": {
+      "class": "btn btn_primary btn_small btn_inventory ",
+      "data-test": "add-to-cart-sauce-labs-bike-light",
+      "id": "add-to-cart-sauce-labs-bike-light",
+      "name": "add-to-cart-sauce-labs-bike-light"
+    },
+    "timestamp": "2026-03-12T04:09:31.230Z"
+  },
+  {
+    "stepName": "add_bike_light",
+    "tag": "button",
+    "id": "add-to-cart-sauce-labs-bike-light",
+    "classes": [
+      "btn",
+      "btn_primary",
+      "btn_small",
+      "btn_inventory",
+      ""
+    ],
+    "text": "Add to cart",
+    "attributes": {
+      "class": "btn btn_primary btn_small btn_inventory ",
+      "data-test": "add-to-cart-sauce-labs-bike-light",
+      "id": "add-to-cart-sauce-labs-bike-light",
+      "name": "add-to-cart-sauce-labs-bike-light"
+    },
+    "timestamp": "2026-03-12T04:15:55.090Z"
+  },
+  {
+    "stepName": "add_bike_light",
+    "tag": "button",
+    "id": "add-to-cart-sauce-labs-bike-light",
+    "classes": [
+      "btn",
+      "btn_primary",
+      "btn_small",
+      "btn_inventory",
+      ""
+    ],
+    "text": "Add to cart",
+    "attributes": {
+      "class": "btn btn_primary btn_small btn_inventory ",
+      "data-test": "add-to-cart-sauce-labs-bike-light",
+      "id": "add-to-cart-sauce-labs-bike-light",
+      "name": "add-to-cart-sauce-labs-bike-light"
+    },
+    "timestamp": "2026-03-13T02:20:45.674Z"
+  },
+  {
+    "stepName": "add_bike_light",
+    "tag": "div",
+    "id": null,
+    "classes": [
+      "inventory_item"
+    ],
+    "text": "Sauce Labs Backpackcarry.allTheThings() with the sleek, streamlined Sly Pack that melds uncompromising style with unequaled laptop and tablet protection.$29.99Add to cart",
+    "attributes": {
+      "class": "inventory_item",
+      "data-test": "inventory-item"
+    },
+    "timestamp": "2026-03-13T02:21:01.477Z"
+  },
+  {
+    "stepName": "add_bike_light",
+    "tag": "div",
+    "id": null,
+    "classes": [
+      "inventory_item"
+    ],
+    "text": "Sauce Labs Backpackcarry.allTheThings() with the sleek, streamlined Sly Pack that melds uncompromising style with unequaled laptop and tablet protection.$29.99Add to cart",
+    "attributes": {
+      "class": "inventory_item",
+      "data-test": "inventory-item"
+    },
+    "timestamp": "2026-03-13T02:22:18.948Z"
+  },
+  {
+    "stepName": "add_bike_light",
+    "tag": "div",
+    "id": null,
+    "classes": [
+      "inventory_item"
+    ],
+    "text": "Sauce Labs Backpackcarry.allTheThings() with the sleek, streamlined Sly Pack that melds uncompromising style with unequaled laptop and tablet protection.$29.99Add to cart",
+    "attributes": {
+      "class": "inventory_item",
+      "data-test": "inventory-item"
+    },
+    "timestamp": "2026-03-13T02:22:51.694Z"
+  },
+  {
+    "stepName": "add_bike_light",
+    "tag": "div",
+    "id": null,
+    "classes": [
+      "inventory_item"
+    ],
+    "text": "Sauce Labs Backpackcarry.allTheThings() with the sleek, streamlined Sly Pack that melds uncompromising style with unequaled laptop and tablet protection.$29.99Add to cart",
+    "attributes": {
+      "class": "inventory_item",
+      "data-test": "inventory-item"
+    },
+    "timestamp": "2026-03-13T02:23:17.993Z"
+  },
+  {
+    "stepName": "add_bike_light",
+    "tag": "div",
+    "id": null,
+    "classes": [
+      "inventory_item"
+    ],
+    "text": "Sauce Labs Backpackcarry.allTheThings() with the sleek, streamlined Sly Pack that melds uncompromising style with unequaled laptop and tablet protection.$29.99Add to cart",
+    "attributes": {
+      "class": "inventory_item",
+      "data-test": "inventory-item"
+    },
+    "timestamp": "2026-03-13T02:23:56.503Z"
+  },
+  {
+    "stepName": "add_bike_light",
+    "tag": "button",
+    "id": "add-to-cart-sauce-labs-bike-light",
+    "classes": [
+      "btn",
+      "btn_primary",
+      "btn_small",
+      "btn_inventory",
+      ""
+    ],
+    "text": "Add to cart",
+    "attributes": {
+      "class": "btn btn_primary btn_small btn_inventory ",
+      "data-test": "add-to-cart-sauce-labs-bike-light",
+      "id": "add-to-cart-sauce-labs-bike-light",
+      "name": "add-to-cart-sauce-labs-bike-light"
+    },
+    "timestamp": "2026-03-13T05:01:17.429Z"
+  },
+  {
+    "stepName": "add_bike_light",
+    "tag": "button",
+    "id": "add-to-cart-sauce-labs-bike-light",
+    "classes": [
+      "btn",
+      "btn_primary",
+      "btn_small",
+      "btn_inventory",
+      ""
+    ],
+    "text": "Add to cart",
+    "attributes": {
+      "class": "btn btn_primary btn_small btn_inventory ",
+      "data-test": "add-to-cart-sauce-labs-bike-light",
+      "id": "add-to-cart-sauce-labs-bike-light",
+      "name": "add-to-cart-sauce-labs-bike-light"
+    },
+    "timestamp": "2026-03-13T05:37:21.686Z"
+  },
+  {
+    "stepName": "add_bike_light",
+    "tag": "button",
+    "id": "add-to-cart-sauce-labs-bike-light",
+    "classes": [
+      "btn",
+      "btn_primary",
+      "btn_small",
+      "btn_inventory",
+      ""
+    ],
+    "text": "Add to cart",
+    "attributes": {
+      "class": "btn btn_primary btn_small btn_inventory ",
+      "data-test": "add-to-cart-sauce-labs-bike-light",
+      "id": "add-to-cart-sauce-labs-bike-light",
+      "name": "add-to-cart-sauce-labs-bike-light"
+    },
+    "timestamp": "2026-03-13T05:47:46.822Z"
+  },
+  {
+    "stepName": "add_bike_light",
+    "tag": "button",
+    "id": "add-to-cart-sauce-labs-bike-light",
+    "classes": [
+      "btn",
+      "btn_primary",
+      "btn_small",
+      "btn_inventory",
+      ""
+    ],
+    "text": "Add to cart",
+    "attributes": {
+      "class": "btn btn_primary btn_small btn_inventory ",
+      "data-test": "add-to-cart-sauce-labs-bike-light",
+      "id": "add-to-cart-sauce-labs-bike-light",
+      "name": "add-to-cart-sauce-labs-bike-light"
+    },
+    "timestamp": "2026-03-15T02:52:38.216Z"
+  },
+  {
+    "stepName": "add_bike_light",
+    "tag": "button",
+    "id": "add-to-cart-sauce-labs-bike-light",
+    "classes": [
+      "btn",
+      "btn_primary",
+      "btn_small",
+      "btn_inventory",
+      ""
+    ],
+    "text": "Add to cart",
+    "attributes": {
+      "class": "btn btn_primary btn_small btn_inventory ",
+      "data-test": "add-to-cart-sauce-labs-bike-light",
+      "id": "add-to-cart-sauce-labs-bike-light",
+      "name": "add-to-cart-sauce-labs-bike-light"
+    },
+    "timestamp": "2026-03-15T03:06:12.009Z"
+  },
+  {
+    "stepName": "add_bike_light",
+    "tag": "button",
+    "id": "add-to-cart-sauce-labs-bike-light",
+    "classes": [
+      "btn",
+      "btn_primary",
+      "btn_small",
+      "btn_inventory",
+      ""
+    ],
+    "text": "Add to cart",
+    "attributes": {
+      "class": "btn btn_primary btn_small btn_inventory ",
+      "data-test": "add-to-cart-sauce-labs-bike-light",
+      "id": "add-to-cart-sauce-labs-bike-light",
+      "name": "add-to-cart-sauce-labs-bike-light"
+    },
+    "timestamp": "2026-03-15T03:13:33.299Z"
+  },
+  {
+    "stepName": "add_bike_light",
+    "tag": "button",
+    "id": "add-to-cart-sauce-labs-bike-light",
+    "classes": [
+      "btn",
+      "btn_primary",
+      "btn_small",
+      "btn_inventory",
+      ""
+    ],
+    "text": "Add to cart",
+    "attributes": {
+      "class": "btn btn_primary btn_small btn_inventory ",
+      "data-test": "add-to-cart-sauce-labs-bike-light",
+      "id": "add-to-cart-sauce-labs-bike-light",
+      "name": "add-to-cart-sauce-labs-bike-light"
+    },
+    "timestamp": "2026-03-15T03:18:17.652Z"
+  },
+  {
+    "stepName": "add_bike_light",
+    "tag": "button",
+    "id": "add-to-cart-sauce-labs-bike-light",
+    "classes": [
+      "btn",
+      "btn_primary",
+      "btn_small",
+      "btn_inventory",
+      ""
+    ],
+    "text": "Add to cart",
+    "attributes": {
+      "class": "btn btn_primary btn_small btn_inventory ",
+      "data-test": "add-to-cart-sauce-labs-bike-light",
+      "id": "add-to-cart-sauce-labs-bike-light",
+      "name": "add-to-cart-sauce-labs-bike-light"
+    },
+    "timestamp": "2026-03-15T03:22:09.930Z"
+  },
+  {
+    "stepName": "add_bike_light",
+    "tag": "button",
+    "id": "add-to-cart-sauce-labs-bike-light",
+    "classes": [
+      "btn",
+      "btn_primary",
+      "btn_small",
+      "btn_inventory",
+      ""
+    ],
+    "text": "Add to cart",
+    "attributes": {
+      "class": "btn btn_primary btn_small btn_inventory ",
+      "data-test": "add-to-cart-sauce-labs-bike-light",
+      "id": "add-to-cart-sauce-labs-bike-light",
+      "name": "add-to-cart-sauce-labs-bike-light"
+    },
+    "timestamp": "2026-03-15T03:33:37.985Z"
+  }
+]

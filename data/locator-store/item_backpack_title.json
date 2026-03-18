@@ -1,0 +1,213 @@
+[
+  {
+    "stepName": "item_backpack_title",
+    "tag": "a",
+    "id": "item_4_title_link",
+    "classes": [],
+    "text": "Sauce Labs Backpack",
+    "attributes": {
+      "href": "#",
+      "id": "item_4_title_link",
+      "data-test": "item-4-title-link"
+    },
+    "timestamp": "2026-03-12T03:40:58.800Z"
+  },
+  {
+    "stepName": "item_backpack_title",
+    "tag": "a",
+    "id": "item_4_title_link",
+    "classes": [],
+    "text": "Sauce Labs Backpack",
+    "attributes": {
+      "href": "#",
+      "id": "item_4_title_link",
+      "data-test": "item-4-title-link"
+    },
+    "timestamp": "2026-03-12T03:55:44.426Z"
+  },
+  {
+    "stepName": "item_backpack_title",
+    "tag": "a",
+    "id": "item_4_title_link",
+    "classes": [],
+    "text": "Sauce Labs Backpack",
+    "attributes": {
+      "href": "#",
+      "id": "item_4_title_link",
+      "data-test": "item-4-title-link"
+    },
+    "timestamp": "2026-03-12T04:04:31.341Z"
+  },
+  {
+    "stepName": "item_backpack_title",
+    "tag": "a",
+    "id": "item_4_title_link",
+    "classes": [],
+    "text": "Sauce Labs Backpack",
+    "attributes": {
+      "href": "#",
+      "id": "item_4_title_link",
+      "data-test": "item-4-title-link"
+    },
+    "timestamp": "2026-03-12T04:09:31.254Z"
+  },
+  {
+    "stepName": "item_backpack_title",
+    "tag": "a",
+    "id": "item_4_title_link",
+    "classes": [],
+    "text": "Sauce Labs Backpack",
+    "attributes": {
+      "href": "#",
+      "id": "item_4_title_link",
+      "data-test": "item-4-title-link"
+    },
+    "timestamp": "2026-03-12T04:15:55.118Z"
+  },
+  {
+    "stepName": "item_backpack_title",
+    "tag": "a",
+    "id": "item_4_title_link",
+    "classes": [],
+    "text": "Sauce Labs Backpack",
+    "attributes": {
+      "href": "#",
+      "id": "item_4_title_link",
+      "data-test": "item-4-title-link"
+    },
+    "timestamp": "2026-03-13T02:20:45.773Z"
+  },
+  {
+    "stepName": "item_backpack_title",
+    "tag": "a",
+    "id": "item_4_title_link",
+    "classes": [],
+    "text": "Sauce Labs Backpack",
+    "attributes": {
+      "href": "#",
+      "id": "item_4_title_link",
+      "data-test": "item-4-title-link"
+    },
+    "timestamp": "2026-03-13T05:01:17.461Z"
+  },
+  {
+    "stepName": "item_backpack_title",
+    "tag": "div",
+    "id": null,
+    "classes": [
+      "inventory_item_name",
+      ""
+    ],
+    "text": "Sauce Labs Backpack",
+    "attributes": {
+      "class": "inventory_item_name ",
+      "data-test": "inventory-item-name"
+    },
+    "timestamp": "2026-03-13T05:37:21.831Z"
+  },
+  {
+    "stepName": "item_backpack_title",
+    "tag": "div",
+    "id": null,
+    "classes": [
+      "inventory_item_name",
+      ""
+    ],
+    "text": "Sauce Labs Backpack",
+    "attributes": {
+      "class": "inventory_item_name ",
+      "data-test": "inventory-item-name"
+    },
+    "timestamp": "2026-03-13T05:47:47.010Z"
+  },
+  {
+    "stepName": "item_backpack_title",
+    "tag": "div",
+    "id": null,
+    "classes": [
+      "inventory_item_name",
+      ""
+    ],
+    "text": "Sauce Labs Backpack",
+    "attributes": {
+      "class": "inventory_item_name ",
+      "data-test": "inventory-item-name"
+    },
+    "timestamp": "2026-03-15T02:52:38.266Z"
+  },
+  {
+    "stepName": "item_backpack_title",
+    "tag": "div",
+    "id": null,
+    "classes": [
+      "inventory_item_name",
+      ""
+    ],
+    "text": "Sauce Labs Backpack",
+    "attributes": {
+      "class": "inventory_item_name ",
+      "data-test": "inventory-item-name"
+    },
+    "timestamp": "2026-03-15T03:06:12.069Z"
+  },
+  {
+    "stepName": "item_backpack_title",
+    "tag": "div",
+    "id": null,
+    "classes": [
+      "inventory_item_name",
+      ""
+    ],
+    "text": "Sauce Labs Backpack",
+    "attributes": {
+      "class": "inventory_item_name ",
+      "data-test": "inventory-item-name"
+    },
+    "timestamp": "2026-03-15T03:13:33.357Z"
+  },
+  {
+    "stepName": "item_backpack_title",
+    "tag": "div",
+    "id": null,
+    "classes": [
+      "inventory_item_name",
+      ""
+    ],
+    "text": "Sauce Labs Backpack",
+    "attributes": {
+      "class": "inventory_item_name ",
+      "data-test": "inventory-item-name"
+    },
+    "timestamp": "2026-03-15T03:18:17.722Z"
+  },
+  {
+    "stepName": "item_backpack_title",
+    "tag": "div",
+    "id": null,
+    "classes": [
+      "inventory_item_name",
+      ""
+    ],
+    "text": "Sauce Labs Backpack",
+    "attributes": {
+      "class": "inventory_item_name ",
+      "data-test": "inventory-item-name"
+    },
+    "timestamp": "2026-03-15T03:22:09.997Z"
+  },
+  {
+    "stepName": "item_backpack_title",
+    "tag": "div",
+    "id": null,
+    "classes": [
+      "inventory_item_name",
+      ""
+    ],
+    "text": "Sauce Labs Backpack",
+    "attributes": {
+      "class": "inventory_item_name ",
+      "data-test": "inventory-item-name"
+    },
+    "timestamp": "2026-03-15T03:33:38.062Z"
+  }
+]
